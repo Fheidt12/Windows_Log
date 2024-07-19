@@ -1,2 +1,0 @@
-MD5 的 WinLog_Check.exe 哈希:
-920bf90ef9fa70a897f57bfbc82a66ae
