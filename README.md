@@ -9,7 +9,8 @@
 
 免责声明：此工具仅限于安全研究，用户承担因使用此工具而导致的所有法律和相关责任！作者不承担任何法律责任
 ## 工具运行界面
-![image](https://github.com/user-attachments/assets/32a5251c-c33b-46fc-972c-3a038fb33a65)
+![image](https://github.com/user-attachments/assets/53289a01-b1ee-4a0a-a15c-9ba3b61d3d8b)
+
 
 ## 功能1&2：登录成功和登录失败日志分析
 （1）不输入登录类型和IP时，默认查看所有4624登录日志
@@ -53,7 +54,12 @@ RDP连接记录，查看当前主机，rdp登录过哪些机器
 ![image](https://github.com/user-attachments/assets/8408a34e-3099-4152-af3b-7aa33944cf70)
 
 ## 功能8：计划任务
-查看计划任务 排版有点问题 后续调整  暂不展示
+查看全部计划任务，显示计划任务名称、创建人、执行动作、是否启动、创建时间、描述
+![image](https://github.com/user-attachments/assets/88dca751-6fc8-4ee7-b0d8-16caf6e2e244)
+根据文件名称检索计划任务
+
+<img width="808" alt="9aa8912a7a6a4d1cd6fa6c354067bc6" src="https://github.com/user-attachments/assets/9af2d8ee-1fb6-4e8e-a121-83dad957d081">
+
 ## 功能9：主机进程分析
 查看进程信息，目前支持查看进程外联地址，启动时间，执行路径，执行用户，PID
 ![image](https://github.com/user-attachments/assets/f6487956-db79-4032-9088-7a9df5e3010c)
