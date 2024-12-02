@@ -183,7 +183,10 @@ kerberos协议分析，判断是否存在利用kerberos协议进行用户名枚�
 ![image](https://github.com/user-attachments/assets/ae3a1a7b-7776-4176-a56d-3324d22c4115)
 ### 功能18：ZeroLogon漏洞利用记录
 ![image](https://github.com/user-attachments/assets/3012b73b-3b6e-40eb-90e8-a2f2356d79fc)
-# 欢迎关注
+# 欢迎关注作者本人工作号
+![qrcode_for_gh_39a7ba3bcbf8_430](https://github.com/user-attachments/assets/3c97dd24-67cb-4e87-b395-8729dcad6860)
+
+# 战友广告
 ![image](https://github.com/user-attachments/assets/8f00dff5-0b86-43b2-b1aa-488b28609009)
 
 
