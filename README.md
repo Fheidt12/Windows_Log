@@ -16,7 +16,7 @@ V3.3 主要更新以下内容：
 
 1、需要右键管理员运行，加载完成后 会弹出GUI界面
 
-2、GUI弹出后，先将GUI最大化，在点击具体功能点，要不然会出现列表会出现显示BUG，目前还没解决好
+2、GUI弹出后，先将GUI最大化，在点击具体功能点，要不然列表会出现显示BUG，目前还没解决好
 ![image](https://github.com/user-attachments/assets/45fe7324-f945-4889-adc2-ab0e547a97c7)
 
 ![image](https://github.com/user-attachments/assets/0f5bc79a-3fb4-4ea6-998b-b3c66d3d6a30)
@@ -91,7 +91,7 @@ V3.3 主要更新以下内容：
 因为日志数据解析完是存入SQLLite数据库中，因此也可直接使用Navicat之类数据库连接工具进行查看日志
 ![image](https://github.com/user-attachments/assets/733df5ba-0662-428f-bb9c-659a74a3cbcc)
 
-# 欢迎关注作者本人工作号
+# 欢迎关注作者本人公众号
 ![qrcode_for_gh_39a7ba3bcbf8_430](https://github.com/user-attachments/assets/3c97dd24-67cb-4e87-b395-8729dcad6860)
 
 # 战友广告
