@@ -38,7 +38,15 @@ V3.3 主要更新以下内容：
 目前仍保留对离线日志的分析，将目标机器上面C:\Windows\System32\winevt\Logs 路径下全部打包放到工具同步即可，不要修改文件名
 ![image](https://github.com/user-attachments/assets/ddb90142-8314-40ee-ad93-356f51fcbf80)
 
-提示下：有些没有日志记录的，大概率是主机没有开启日志审核策略导致主机没有记录，具体怎么开百度就行 
+提示下：有些没有日志记录的，大概率是主机没有开启日志审核策略导致主机没有记录，具体怎么开百度就行
+
+开启所有审核日志
+
+管理员运行powershell 执行：
+
+Get-Command -CommandType Cmdlet
+
+auditpol /set /category:* /success:enable /failure:enable
 
 ### 威胁检索
 1、内存检索，将https://github.com/Fheidt12/Windows_Memory_Search 集成过来
