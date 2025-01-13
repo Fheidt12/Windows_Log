@@ -118,8 +118,5 @@ auditpol /set /category:* /success:enable /failure:enable
 # 战友广告
 ![image](https://github.com/user-attachments/assets/8f00dff5-0b86-43b2-b1aa-488b28609009)
 
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/mifine666/miscan.svg?variant=adaptive)](https://starchart.cc/mifine666/miscan)
-
 ## Stargazers over time 
 [![Stargazers over time](https://starchart.cc/Fheidt12/Windows_Log.svg?variant=adaptive)](https://starchart.cc/Fheidt12/Windows_Log)
